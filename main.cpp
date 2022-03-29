@@ -1,3 +1,26 @@
+/*
+Author: 
+--------------------------------
+Peter Aldrich (KompPsy)
+
+Date: 
+---------------------------------
+03/29/2022
+
+Repository: 
+---------------------------------
+Integral-Calculator
+
+Program File : 
+---------------------------------
+main.cpp
+
+Description:
+----------------------------------
+This Program calculates Integral from user's input using variest
+Data structures and concept.
+
+*/
 
 //Libraries
 #include <iostream>
