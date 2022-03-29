@@ -1,2 +1,2 @@
 # Integral-Calculator
->-- C++ Program to Calculate a Integral
+> Description : C++ Program to Calculate a Integral
