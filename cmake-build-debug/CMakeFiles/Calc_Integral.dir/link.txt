@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Calc_Integral.dir/main.cpp.o  -o Calc_Integral 
